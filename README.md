@@ -5,10 +5,10 @@
 
 |交易所|场外交易所|资讯|数据查询|
 |--|--|--|--|
-|[币安：服务最好的币币交易所](https://www.binance.com) |[OTCBTC：靠谱场外法币交易网站 ](https://otcbtc.com/referrals/OTCKING)|[MyToken：简洁的币种行情APP](http://mytoken.io/)|[比特币区块浏览器 ](https://btc.com/)|
-|[火币：靠谱的交易所](https://www.huobi.pro/zh-cn/)|[OKEX：支持法币和期货的交易所](https://www.okb.com/)|[非小号：强大的行业大数据网站 ](http://www.feixiaohao.com/)|[以太坊区块浏览器](https://etherscan.io/)|
-|[OKEX：支持法币和期货的交易所](https://www.okb.com/)|[比特儿：支持法币和各种分叉币](https://gate.io/signup/485240)|[金色财经：区块链第一媒体](http://jinse.com/)|[分叉币大全 ](http://pieifo.com/)|
-|[比特儿：支持法币和各种分叉币](https://gate.io/signup/485240)|-|[巴比特：区块链第一论坛 ](http://www.8btc.com/)|[ICOROOT项目评测](https://www.icoroot.com/)|
+|[币安：服务最好的币币交易所](https://www.binance.com) |[OTCBTC：靠谱场外法币交易网站 ](https://otcbtc.com/referrals/U153138168)|[MyToken：简洁的币种行情APP](http://mytoken.io/)|[比特币区块浏览器 ](https://btc.com/)|
+|[火币：靠谱的交易所](https://www.huobi.br.com/zh-cn/topic/invited/?invite_code=988m3)|[OKEX：支持法币和期货的交易所](https://www.okb.com/)|[非小号：强大的行业大数据网站 ](http://www.feixiaohao.com/)|[以太坊区块浏览器](https://etherscan.io/)|
+|[OKEX：支持法币和期货的交易所](https://www.okb.com/)|[比特儿：支持法币和各种分叉币](https://gate.io/signup/1733421)|[金色财经：区块链第一媒体](http://jinse.com/)|[分叉币大全 ](http://pieifo.com/)|
+|[比特儿：支持法币和各种分叉币](https://gate.io/signup/1733421)|-|[巴比特：区块链第一论坛 ](http://www.8btc.com/)|[ICOROOT项目评测](https://www.icoroot.com/)|
 |-|-|[链向财经：区块链信息服务平台](http://www.chainfor.com/)|[以太坊国内门户网 ](http://ethfans.org/)|
 |-|-|-|[BFC：最强的币种大数据网站](https://bitinfocharts.com/zh/)|
 <br/>
@@ -18,18 +18,18 @@
 |国内交易所|国外交易所|场外交易所|
 |--|--|--|
 |[币安：服务最好的币币交易所](https://www.binance.com/?ref=10113920)|[B网：美国知名头部数字货币平台](https://bittrex.com/)|[OTCBTC：体验最好的场外平台](https://otcbtc.com/referrals/OTCKING)|
-|[火币：靠谱的交易所](https://www.huobi.pro/zh-cn/)|[P网：成立于2014年的老牌山寨币平台](https://poloniex.com/)|[LocalBitcoins：全球最大场外平台](https://localbitcoins.com/)|
+|[火币：靠谱的交易所](https://www.huobi.br.com/zh-cn/topic/invited/?invite_code=988m3)|[P网：成立于2014年的老牌山寨币平台](https://poloniex.com/)|[LocalBitcoins：全球最大场外平台](https://localbitcoins.com/)|
 |[比特儿：支持法币和各种分叉币 ](https://gate.io/signup/485240)|[Bithumb：韩国排名第一的交易平台](https://www.bithumb.com/)|[可盈可乐：支持场外的综合交易所](https://www.coincola.com/mobile/redpacket?ref=bnpm8imB)|
-|[OKEX：支持法币和期货](https://www.okex.com/)|[Hitbtc：英国领先的交易平台](https://hitbtc.com/)|[OKEX C2C：OKEX场外](https://www.okex.com/c2c/trade/trade.do)|
-|[EXX：可信赖的数字货币交易网 ](https://www.exx.com/r/c4c2539b9f192f47492a15b9afd8a8ea)|[KEX：可充值法币的韩国交易平台](https://www.kex.com/)|[火币 C2C：火币场外ZB ](https://otc.huobi.pro/)|
-|[KUCOIN：简单易用的数字货币交易网 ](https://www.kucoin.com/#/?r=E3lswr)|[EtherDelta：去中心化第一交易平台](https://etherdelta.com/)|[C2C：中比特场外](https://vip.zb.com/activity/joinbtc?tuijianid=32ab425f28355704632893ae7eb1cbbc)|
-|[ZB：国内老字号中比特合作平台 ](https://vip.zb.com/activity/joinbtc?tuijianid=32ab425f28355704632893ae7eb1cbbc)|[Liqui：乌克兰优秀的交易平台](https://liqui.io/)|[BitcoinWorld：比特币世界场外平台](https://bitcoinworld.com/register?referral=64597)|
+|[OKEX：支持法币和期货](https://www.okb.com/)|[Hitbtc：英国领先的交易平台](https://hitbtc.com/)|[OKEX C2C：OKEX场外](https://www.okb.com/c2c/trade/trade.do)|
+|[EXX：可信赖的数字货币交易网 ](https://www.exx.com/r/c4c2539b9f192f47492a15b9afd8a8ea)|[KEX：可充值法币的韩国交易平台](https://www.kex.com/)|[火币 C2C：火币场外ZB ](https://www.huobi.br.com/zh-cn/topic/invited/?invite_code=988m3)|
+|[KUCOIN：简单易用的数字货币交易网 ](https://www.kucoin.com/#/?r=E3lswr)|[EtherDelta：去中心化第一交易平台](https://etherdelta.com/)|[C2C：中比特场外](https://vip.bitkk.com/activity/joinbtc?tuijianid=93ca1f48d917543fd97ec38ffefc6484)|
+|[ZB：国内老字号中比特合作平台 ](https://vip.bitkk.com/activity/joinbtc?tuijianid=93ca1f48d917543fd97ec38ffefc6484)|[Liqui：乌克兰优秀的交易平台](https://liqui.io/)|[BitcoinWorld：比特币世界场外平台](https://bitcoinworld.com/register?referral=64597)|
 |[Bitfinex：经常世界第一的香港交易所](https://www.bitfinex.com/)|[Quoinex：日本最好的持照交易平台](https://quoinex.com/)|[LinkCoin：好用的场外交易平台](https://www.linkcoin.pro/)|
 |[AEX：比特时代海外版 ](https://www.aex.com/)|[BIT-Z：全球化数字货币交易平台](https://www.bit-z.com/)|-|
-|[ALLCOIN：澳大利亚上市公司交易所 ](https://www.allcoin.com/Account/RegisterByPhoneNumber/?InviteCode=MTQ2OTk4MDgwMDg5Mzgw)|[BitMex：总部位于塞舌尔的交易平台](https://www.bitmex.com/)|-|
+|[ALLCOIN：澳大利亚上市公司交易所 ](https://www.allcoin.com)|[BitMex：总部位于塞舌尔的交易平台](https://www.bitmex.com/)|-|
 |[币赢网：坚挺支持法币的交易所 ](https://www.coinw.com/)|[CME：比特币期货平台](http://www.cmegroup.com/)|-|
 |[CEX：币久海外版](https://www.cex.com/)|-|-|
-|[BigOne：老猫掌管的币币交易所 ](https://big.one/)|-|-|
+|[BigOne：老猫掌管的币币交易所 ](https://b1.run/users/new?code=LQSLFHDG)|-|-|
 |[CoinEgg：聚币国际版](https://www.coinegg.com/)|-|-|
 <br/>
 
