@@ -184,5 +184,5 @@
 <B>DONATE</B>
 你的每一个捐赠都会让我们的工作变得更棒。<br/>
 BitCoin address 1MSuEehZBivLE3ZLptzh1CePhRdkj79qTF<br/>
-<img src="./img/alipay.jpeg">
-<img src="./img/wechat.jpeg">
+<img src="./img/alipay.jpeg" style="max-width:200px">
+<img src="./img/wechat.jpeg" style="max-width:200px">
