@@ -2,11 +2,11 @@
 <p align="center">
     <img src="./img/logo.jpeg" height="130">
     <a href="https://github.com/shmilyLT/blockchain/blob/master/QTRobot/%E7%AD%96%E7%95%A5/%E6%8B%89%E9%AB%98%E7%94%A9%E8%B4%A7%E4%BF%9D%E6%8A%A4%E7%AD%96%E7%95%A5.md">高频交易：拉高甩货保护策略</a>
-
 </p>
+
 |交易所|场外交易所|资讯|数据查询|
 |--|--|--|--|
-|[币安：服务最好的币币交易所](https://www.binance.com/?ref=10113920) |[OTCBTC：靠谱场外法币交易网站 ](https://otcbtc.com/referrals/U153138168)|[MyToken：简洁的币种行情APP](http://mytoken.io/)|[比特币区块浏览器 ](https://btc.com/)|
+|[币安：服务最好的币币交易所](https://www.binance.com/?ref=10113920)|[OTCBTC：靠谱场外法币交易网站 ](https://otcbtc.com/referrals/U153138168)|[MyToken：简洁的币种行情APP](http://mytoken.io/)|[比特币区块浏览器 ](https://btc.com/)|
 |[火币：靠谱的交易所](https://www.huobi.br.com/zh-cn/topic/invited/?invite_code=988m3)|[OKEX：支持法币和期货的交易所](https://www.okb.com/)|[非小号：强大的行业大数据网站 ](http://www.feixiaohao.com/)|[以太坊区块浏览器](https://etherscan.io/)|
 |[OKEX：支持法币和期货的交易所](https://www.okb.com/)|[比特儿：支持法币和各种分叉币](https://gate.io/signup/1733421)|[金色财经：区块链第一媒体](http://jinse.com/)|[分叉币大全 ](http://pieifo.com/)|
 |[比特儿：支持法币和各种分叉币](https://gate.io/signup/1733421)|-|[巴比特：区块链第一论坛 ](http://www.8btc.com/)|[ICOROOT项目评测](https://www.icoroot.com/)|
