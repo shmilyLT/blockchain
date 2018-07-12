@@ -2,7 +2,7 @@
 <p align="center">
     <img src="./img/logo.jpeg" height="130">
 </p>
-
+[高频交易：拉高甩货保护策略](https://github.com/shmilyLT/blockchain/blob/master/QTRobot/%E7%AD%96%E7%95%A5/%E6%8B%89%E9%AB%98%E7%94%A9%E8%B4%A7%E4%BF%9D%E6%8A%A4%E7%AD%96%E7%95%A5.md)
 |交易所|场外交易所|资讯|数据查询|
 |--|--|--|--|
 |[币安：服务最好的币币交易所](https://www.binance.com/?ref=10113920) |[OTCBTC：靠谱场外法币交易网站 ](https://otcbtc.com/referrals/U153138168)|[MyToken：简洁的币种行情APP](http://mytoken.io/)|[比特币区块浏览器 ](https://btc.com/)|
