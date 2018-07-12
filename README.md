@@ -181,8 +181,8 @@
 |-|[长铗2011年的投资建议（史诗级评论）](https://www.zhihu.com/question/19982269)|
 |-|[2017年你为什么错过比特币？](https://mp.weixin.qq.com/s?__biz=MzIyNDk1NzU4OA==&amp;mid=2247484665&amp;idx=1&amp;sn=c0e3a0a9b72315065920f9aeeb4c144d&amp;chksm=e8064102df71c8148fc42b200e8b30276d0df8803bd1e3a18330bda3a13c46445aa8663b9d88&amp;mpshare=1&amp;scene=1&amp;srcid=1214THPGs7RcH0Q3VIqX4sMr#rd)|
 <br/>
-<B>DONATE</B>
+<B>DONATE</B><br/>
 你的每一个捐赠都会让我们的工作变得更棒。<br/>
 BitCoin address 1MSuEehZBivLE3ZLptzh1CePhRdkj79qTF<br/>
-<img src="./img/alipay.jpeg" style="max-width:200px">
-<img src="./img/wechat.jpeg" style="max-width:200px">
+<img src="./img/alipay.jpeg" style="width:200px">
+<img src="./img/wechat.jpeg" style="width:200px">
