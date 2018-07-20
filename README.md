@@ -1,6 +1,6 @@
 # blockchain
 <p align="center">
-    <img src="./img/logo.jpeg" height="130">
+    <img src="./img/logo.jpeg" height="130"><br/>
     <a href="https://github.com/shmilyLT/blockchain/blob/master/QTRobot/%E7%AD%96%E7%95%A5/%E6%8B%89%E9%AB%98%E7%94%A9%E8%B4%A7%E4%BF%9D%E6%8A%A4%E7%AD%96%E7%95%A5.md">高频交易：拉高甩货保护策略</a>
 </p>
 
@@ -182,7 +182,3 @@
 |-|[长铗2011年的投资建议（史诗级评论）](https://www.zhihu.com/question/19982269)|
 |-|[2017年你为什么错过比特币？](https://mp.weixin.qq.com/s?__biz=MzIyNDk1NzU4OA==&amp;mid=2247484665&amp;idx=1&amp;sn=c0e3a0a9b72315065920f9aeeb4c144d&amp;chksm=e8064102df71c8148fc42b200e8b30276d0df8803bd1e3a18330bda3a13c46445aa8663b9d88&amp;mpshare=1&amp;scene=1&amp;srcid=1214THPGs7RcH0Q3VIqX4sMr#rd)|
 <br/>
-<B>DONATE</B><br/>
-你的每一个捐赠都会让我们的工作变得更棒。<br/>
-BitCoin address 1MSuEehZBivLE3ZLptzh1CePhRdkj79qTF<br/>
-<p><img src="./img/alipay.jpeg" width="200px">&nbsp;<img src="./img/wechat.jpeg" width="200px"></p>
