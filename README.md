@@ -7,7 +7,7 @@
 |交易所|场外交易所|资讯|数据查询|
 |--|--|--|--|
 |[币安：服务最好的币币交易所](https://www.binance.com/?ref=10113920)|[OTCBTC：靠谱场外法币交易网站 ](https://otcbtc.com/referrals/U153138168)|[MyToken：简洁的币种行情APP](http://mytoken.io/)|[比特币区块浏览器 ](https://btc.com/)|
-|[火币：靠谱的交易所](https://www.huobi.br.com/zh-cn/topic/invited/?invite_code=988m3)|[OKEX：支持法币和期货的交易所](https://www.okb.com/)|[非小号：强大的行业大数据网站 ](http://www.feixiaohao.com/)|[以太坊区块浏览器](https://etherscan.io/)|
+|[火币：靠谱的交易所](https://www.huobi.pr/zh-cn/register/?invite_code=988m3)|[OKEX：支持法币和期货的交易所](https://www.okb.com/)|[非小号：强大的行业大数据网站 ](http://www.feixiaohao.com/)|[以太坊区块浏览器](https://etherscan.io/)|
 |[OKEX：支持法币和期货的交易所](https://www.okb.com/)|[比特儿：支持法币和各种分叉币](https://gate.io/signup/1733421)|[金色财经：区块链第一媒体](http://jinse.com/)|[分叉币大全 ](http://pieifo.com/)|
 |[比特儿：支持法币和各种分叉币](https://gate.io/signup/1733421)|-|[巴比特：区块链第一论坛 ](http://www.8btc.com/)|[ICOROOT项目评测](https://www.icoroot.com/)|
 |-|-|[链向财经：区块链信息服务平台](http://www.chainfor.com/)|[以太坊国内门户网 ](http://ethfans.org/)|
@@ -19,7 +19,7 @@
 |国内交易所|国外交易所|场外交易所|
 |--|--|--|
 |[币安：服务最好的币币交易所](https://www.binance.com/?ref=10113920)|[B网：美国知名头部数字货币平台](https://bittrex.com/)|[OTCBTC：体验最好的场外平台](https://otcbtc.com/referrals/OTCKING)|
-|[火币：靠谱的交易所](https://www.huobi.br.com/zh-cn/topic/invited/?invite_code=988m3)|[P网：成立于2014年的老牌山寨币平台](https://poloniex.com/)|[LocalBitcoins：全球最大场外平台](https://localbitcoins.com/)|
+|[火币：靠谱的交易所](https://www.huobi.pr/zh-cn/register/?invite_code=988m3)|[P网：成立于2014年的老牌山寨币平台](https://poloniex.com/)|[LocalBitcoins：全球最大场外平台](https://localbitcoins.com/)|
 |[比特儿：支持法币和各种分叉币 ](https://gate.io/signup/1733421)|[Bithumb：韩国排名第一的交易平台](https://www.bithumb.com/)|[可盈可乐：支持场外的综合交易所](https://www.coincola.com/mobile/redpacket?ref=bnpm8imB)|
 |[OKEX：支持法币和期货](https://www.okb.com/)|[Hitbtc：英国领先的交易平台](https://hitbtc.com/)|[OKEX C2C：OKEX场外](https://www.okb.com/c2c/trade/trade.do)|
 |[EXX：可信赖的数字货币交易网 ](https://www.exx.com)|[KEX：可充值法币的韩国交易平台](https://www.kex.com/)|[火币 C2C：火币场外ZB ](https://www.huobi.br.com/zh-cn/topic/invited/?invite_code=988m3)|
